@@ -1,1 +1,3 @@
 new file added on dell-branch3 20180715-0951 myscript
+
+update this file per code review comments on msi laptop 20180715-1022
