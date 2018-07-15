@@ -10,3 +10,5 @@ tt20180617-1315 from GHO
 tt20180617-1329, Sunday from MSI on branch 1
 
 tt20180617-1402 from MSI on branch 1, Sunday
+
+tt20180715-0958 changes made from GHO before dell-branch was merged.
